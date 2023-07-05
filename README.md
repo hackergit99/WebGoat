@@ -1,6 +1,6 @@
 # WebGoat 8: A deliberately insecure Web Application
 
-[![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
+[![Build](https://github.com/WebGoat-AzureDevops/WebGoat-AzureDevops/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat-AzureDevops/actions/workflows/build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-17-green.svg)](https://jdk.java.net/)
 [![OWASP Labs](https://img.shields.io/badge/OWASP-Lab%20project-f7b73c.svg)](https://owasp.org/projects/)
 [![GitHub release](https://img.shields.io/github/release/WebGoat/WebGoat.svg)](https://github.com/WebGoat/WebGoat/releases/latest)
@@ -8,27 +8,7 @@
 [![Discussions](https://img.shields.io/github/discussions/WebGoat/WebGoat)](https://github.com/WebGoat/WebGoat/discussions)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
-# Introduction
 
-WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
-application security lessons.
-
-This program is a demonstration of common server-side application flaws. The
-exercises are intended to be used by people to learn about application security and
-penetration testing techniques.
-
-**WARNING 1:** *While running this program your machine will be extremely
-vulnerable to attack. You should disconnect from the Internet while using
-this program.*  WebGoat's default configuration binds to localhost to minimize
-the exposure.
-
-**WARNING 2:** *This program is for educational purposes only. If you attempt
-these techniques without authorization, you are very likely to get caught. If
-you are caught engaging in unauthorized hacking, most companies will fire you.
-Claiming that you were doing security research will not work as that is the
-first thing that all hackers claim.*
-
-![WebGoat](docs/images/webgoat.png)
 
 # Installation instructions:
 
